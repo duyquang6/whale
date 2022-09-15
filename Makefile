@@ -2,7 +2,7 @@ base_dir:=~/.whale
 install_dir:=${base_dir}/bin
 dependency_binary_dir:=${base_dir}/libexec
 python_directory:=pipelines
-python3_alias:=python3
+python3_alias:=python
 
 
 .PHONY: rust
